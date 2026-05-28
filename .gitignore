@@ -1,0 +1,22 @@
+# Engine internals (not user code)
+engine-docs/
+examples/
+templates/
+urhox-libs/
+schemas/
+prompts/
+.claude/
+.emmylua/
+lua-tools/
+CLAUDE.md
+
+# Build & temp
+dist/
+.build/
+.tmp/
+.project/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
